@@ -35,14 +35,16 @@
 ### 🔹 Web Applications
 
 - **[AI Health Companian](#)**  
-  *Next.js* –About
+  About
 A modern web application built with React, TypeScript, and Tailwind CSS that leverages Google's Gemini API to create a comprehensive, AI-powered health management companion. The app provides personalized health insights, symptom tracking, medication management, and an intelligent health coach..
 
-- **[Crypto Wallet Web App – MatrixMomentum](#)**  
-  *React.js* – Cryptocurrency wallet platform for managing and tracking digital assets in real-time.
+- **[Offline-Trek-Safety-AI](#)**  
+  About
+This is a website in which people can load their destination or location and this will generate the safety percentage .
 
-- **[Shopping Web App – Bike Shop](#)**  
-  *React.js* – E-commerce web app for bike sales with product management, cart, and checkout functionality.
+- **[Shelfie Abookbot AI](#)**  
+  About
+A conversational chatbot using IBM Watson Assistant that recommends books based on user interests (genre, author, mood, etc.). Train intents and entities and create dialog flows.this is not the exact AI but a small project on it by it is not for big purpose it is a summer internship project on ibm watson...
 
 ---
 
