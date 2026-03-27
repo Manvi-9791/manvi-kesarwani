@@ -29,18 +29,20 @@
 ### 🔹 Project 2
 - Description
 - Tech used
-
 ---
+## 📌 Featured Projects
 
-## 📊 GitHub Stats
+### 🔹 Web Applications
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+- **[AI Health Companian](#)**  
+  *Next.js* –About
+A modern web application built with React, TypeScript, and Tailwind CSS that leverages Google's Gemini API to create a comprehensive, AI-powered health management companion. The app provides personalized health insights, symptom tracking, medication management, and an intelligent health coach..
 
----
+- **[Crypto Wallet Web App – MatrixMomentum](#)**  
+  *React.js* – Cryptocurrency wallet platform for managing and tracking digital assets in real-time.
 
-## 🔥 Streak Stats
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+- **[Shopping Web App – Bike Shop](#)**  
+  *React.js* – E-commerce web app for bike sales with product management, cart, and checkout functionality.
 
 ---
 
